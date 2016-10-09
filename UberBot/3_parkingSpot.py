@@ -48,8 +48,6 @@ def parkingSpot(carDimensions, parkingLot, luckySpot):
 
 # TEST
 
-
-
 carDimensions = [2, 1]
 parkingLot = [[1,1,1,1], [1,0,0,0], [1,0,1,0]]
 luckySpot = [1, 2, 1, 3]
