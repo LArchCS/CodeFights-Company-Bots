@@ -1,0 +1,14 @@
+Asanabot was the first one I beat (when I created my CodeFight account)..
+
+I did not notice this is a company bot, and just went through the programming tasks.
+
+The code here is for the third task, which is like a calendar reminder:
+1. 4 inputs as 
+    a) firstDate:  a string, indicating the first day of the task
+    b) k: an integer, indicating after how many weeks should the reminder repeat
+    c) daysOfTheWeek: a list of strings, indicating on which weekday should the calendar remind
+    d) n: an integer, remind the task for n times
+2. output:
+    a) a list of strings, indicating the first n dates
+
+The difficult part is to to traslate string into date, and date into string, also need to consider leap years and cases when the calender reminder spans different years.
