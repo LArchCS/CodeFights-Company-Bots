@@ -11,4 +11,4 @@ The code here is for the third task, which is like a calendar reminder:
 2. output:
     a) a list of strings, indicating the first n dates
 
-The difficult part is to to traslate string into date, and date into string, also need to consider leap years and cases when the calender reminder spans different years.
+The difficult part is to to traslate string into date, and date into string, also need to consider leap years and cases when the calender reminder spans across years(also need to consider leap years).
